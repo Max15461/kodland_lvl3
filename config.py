@@ -1,4 +1,4 @@
-token = '7902818689:AAHrLWS0EQoQG4N0_Ke-YsF6OaVKiNi2zFU'
+token = ''
 
 class Car:
 
